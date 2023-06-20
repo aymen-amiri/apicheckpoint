@@ -1,0 +1,26 @@
+.user-list {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: pink;
+    border-radius: 5px;
+  }
+  
+  .user-list h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .user-list ul {
+    list-style-type: upper-roman ;
+    padding: 1;
+  }
+  
+  .user-list li {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+  }
+  
+  
